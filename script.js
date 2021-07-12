@@ -1,4 +1,6 @@
-// Author:
+// Author: Aaron Hobson
+
+// https://teachablemachine.withgoogle.com/models/9_Kx2dnHa/
 
 // Global UI Variables
 let canvasDiv;
